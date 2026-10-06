@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "WHATTHESHIT.aternos.me",
+    "port": 28198,
     "version": "",
     "try-creative": false
   },
